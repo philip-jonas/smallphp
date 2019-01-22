@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "jquery": "https://github.com/jquery/jquery.git",
+    "sizzle": "https://github.com/jquery/sizzle.git"
+  }
+}
